@@ -1,0 +1,28 @@
+body{
+  background-color: #A3C9AA;
+
+}
+
+.question{
+
+  text-align: center;
+}
+
+
+.yesBTN{
+  height: 10rem;
+  width: 10rem;
+  background-color: green;
+  color: white;
+  font-size: 5rem;
+  font-family: cursive;
+}
+
+.noBTN{
+  height: 10rem;
+  width: 10rem;
+  background-color: pink;
+  color: white;
+  font-size: 5rem;
+  font-family: cursive;
+}
